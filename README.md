@@ -4,6 +4,7 @@ Build a basic hadoop platform
 搭建一个简单的伪分布式Hadoop平台 
 
 大致流程：
+
 1：准备相关软件与安装包、安装好linux系统、（此次使用的是Ubuntu16.04）创建hadoop用户。
 
 2：登录Hadoop用户、安装nanao或vim或vi、更改软件更新源。
